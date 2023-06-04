@@ -17,6 +17,7 @@ Don't forget to install chromedriver.exe according to your Chrome version. You c
 
 ```
 selenium
+selenium-wire
 undetected-chromedriver
 sqlite3
 ```
